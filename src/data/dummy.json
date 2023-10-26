@@ -1,0 +1,33 @@
+{
+  "Suspeitos": ["Alex", "Alice", "Leila", "Luis", "Paty", "Ruy"],
+  "Local": [
+    "Parque",
+    "Embaixada",
+    "Shopping",
+    "Academia",
+    "Aeroporto",
+    "Museu",
+    "Universidade",
+    "Banco"
+  ],
+  "Crime": [
+    "Atentado terrorista",
+    "Desvio de verba",
+    "Extravio de Documento",
+    "Fake news",
+    "Falsificação de identidade",
+    "Invasão de arquivos",
+    "Suborno",
+    "Tentativa de sequestro"
+  ],
+  "Esconderijo": [
+    "China",
+    "Egito",
+    "Estados Unidos",
+    "França",
+    "Índia",
+    "Inglaterra",
+    "Japão",
+    "Turquia"
+  ]
+}
