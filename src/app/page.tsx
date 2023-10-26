@@ -4,6 +4,8 @@ import Dummy from "@/data/dummy.json";
 export default function Home() {
   return (
     <main className={styles.main}>
+      <h1>AGENTE SECRETO</h1>
+      <h2>Bloco de notas</h2>
       {Object.entries(Dummy).map(([nome, valores]) => (
         <div key={nome}>
           <h4>{nome}</h4>
