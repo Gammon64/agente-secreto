@@ -1,5 +1,14 @@
 {
-  "Suspeitos": ["Alex", "Alice", "Leila", "Luis", "Paty", "Ruy"],
+  "Suspeitos": [
+    "Alex",
+    "Alice",
+    "Leila",
+    "Luis",
+    "Paty",
+    "Ruy",
+    "Sérgio",
+    "Sheila"
+  ],
   "Local": [
     "Parque",
     "Embaixada",
@@ -13,9 +22,9 @@
   "Crime": [
     "Atentado terrorista",
     "Desvio de verba",
-    "Extravio de Documento",
+    "Extravio de doc.",
     "Fake news",
-    "Falsificação de identidade",
+    "Falsificação de ind.",
     "Invasão de arquivos",
     "Suborno",
     "Tentativa de sequestro"
